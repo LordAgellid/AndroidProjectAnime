@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">tp1</string>
+    <string name="title_home">Home</string>
+    <string name="title_favorites">Favorites</string>
+    <string name="title_details">Details</string>
+    <string name="title_login">Log In</string>
+    <string name="hint_username">e1234567</string>
+    <string name="hint_password">••••••••••••</string>
+    <string name="tvshow_poster">TvShow Poster</string>
+    <string name="tvshow_title">My Hero Academia</string>
+    <string name="year_published">Year</string>
+    <string name="episodes">Episodes</string>
+    <string name="tvshow_description">Tvshow description</string>
+    <string name="cast_name">Cast name</string>
+    <string name="character_name">Character name</string>
+    <string name="cast_image">Cast image</string>
+    <string name="season">Season #</string>
+    <string name="nb_episodes"># Episodes</string>
+</resources>
